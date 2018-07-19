@@ -51,7 +51,7 @@ def parse_options():
         '-P', '--port', '--web-port',
         type="int",
         dest="port",
-        default=8089,
+        default=8088,
         help="Port on which to run web host"
     )
     
